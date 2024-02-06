@@ -13,4 +13,4 @@ def sumprimes(x):
             if flag==False:
                 sum=sum+i
     return(sum)
-print(sumprimes(n))
+print("sum of rprime number is : ",sumprimes(n))
